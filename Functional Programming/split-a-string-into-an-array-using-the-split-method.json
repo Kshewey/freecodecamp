@@ -1,0 +1,1 @@
+{"index.js":"function splitify(str) {\n  // Add your code below this line\n  let newArray = str.split(/[^a-zA-Z0-9]/g);\n  return newArray;\n  \n  // Add your code above this line\n}\nsplitify(\"Hello World,I-am code\");"}
